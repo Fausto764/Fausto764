@@ -1,13 +1,13 @@
 
 ![](https://github.com/Fausto764/Fausto764/blob/main/banner.jpg)
 
-<a href="https://www.linkedin.com/in/facundo-carrion-826703242/" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://www.instagram.com/facucarriondev/" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://linktr.ee/facucarrionn" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/LinkTree-%1de9b6.svg?style=flat-square&logo=linktree&logoColor=white" alt="Linktree">
 </a>
 
@@ -27,6 +27,6 @@ Estoy en busca de Experiencia realizando proyectos como Freelance. Tengo facilid
 
 <div align="center">
   <a href="https://github.com/tiagocomba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facucarrion&include_all_commits=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642&line_height=34"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=facucarrion&theme=great-gatsby" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fausto764&include_all_commits=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000011&title_color=ebc634&text_color=efefef&icon_color=ff4642&line_height=34"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Fausto764&theme=great-gatsby" />
 </div>
