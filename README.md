@@ -1,5 +1,5 @@
 
-![](https://github.com/Fausto764/Fausto764/blob/main/fausto-banner.jpg)
+![](https://github.com/Fausto764/Fausto764/blob/main/banner.jpg)
 
 <a href="https://www.linkedin.com/in/facundo-carrion-826703242/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
