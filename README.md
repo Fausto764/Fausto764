@@ -13,7 +13,7 @@
 
 ## Hola👋🏻, Bienvenido a mi Github
 
-Soy Desarrollador Web 👨🏻‍💻, me apasiona combinar lo técnico con lo estético para crear interfaces amigables e intuitivas con el mejor rendimiento. Actualmente utilizo React con Javascript y SASS, pero tengo conocimientos de frameworks como Bootstrap, Material UI y similares.
+Soy Desarrollador Web 👨🏻‍💻, me apasiona combinar lo técnico con lo estético para crear interfaces amigables e intuitivas con el mejor rendimiento. Actualmente utilizo React con Javascript y SASS, pero tengo conocimientos de frameworks como Tailwind, Material UI y similares.
 
 > Soy Autodidacta con intereses en el Emprendimiento y en el Desarrollo Personal
 
